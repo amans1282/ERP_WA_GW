@@ -1,7 +1,7 @@
 [project]
-name = "WA_ERPNEXT_15"
+name = "ultramsg_4_erpnext"
 authors = [
-    { name = "WA_ERPNEXT_15, email = "support@erpnext.com"}
+    { name = "ERPGulf", email = "support@ERPGulf.com"}
 ]
 description = "ERPNext app for sending whatsapp messages through UltraMsg"
 requires-python = ">=3.10"
